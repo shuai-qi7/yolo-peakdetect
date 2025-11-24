@@ -1,0 +1,9 @@
+torch
+nni
+numpy
+math
+matplotlib
+pillow
+scipy
+PyQt5
+tqdm
