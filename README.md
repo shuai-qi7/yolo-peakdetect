@@ -13,7 +13,7 @@ YOLO-PeakDetect combines the efficiency of the YOLO (You Only Look Once) object 
 ### Method 1: Install from Source Code
 
 1.Clone the repository to your local machine:
-git clone https://github.com/yourusername/python-YOLO-PeakDetect.git
+git clone https://github.com/shuai-qi7/yolo-peakdetect
 cd python-YOLO-PeakDetect
 
 2.Install dependencies:
